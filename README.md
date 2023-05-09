@@ -1,1 +1,1 @@
-# speedTyingGame
+# speedTypingGame
